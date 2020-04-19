@@ -1,2 +1,2 @@
-# FFC-Responsive Testimonial Cards
+Responsive Testimonial Cards
  
